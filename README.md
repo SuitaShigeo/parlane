@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/parlane)](https://pypi.org/project/parlane/)
 [![Python](https://img.shields.io/pypi/pyversions/parlane)](https://pypi.org/project/parlane/)
-[![Tests](https://github.com/owl-tech-sui/parlane/actions/workflows/tests.yml/badge.svg)](https://github.com/owl-tech-sui/parlane/actions/workflows/tests.yml)
+[![Tests](https://github.com/SuitaShigeo/parlane/actions/workflows/tests.yml/badge.svg)](https://github.com/SuitaShigeo/parlane/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **Dead-simple parallel data processing for Python.**
@@ -305,7 +305,7 @@ For async functions, `asyncio.Semaphore` controls concurrency directly — no ex
 ## Development
 
 ```bash
-git clone https://github.com/owl-tech-sui/parlane
+git clone https://github.com/SuitaShigeo/parlane
 cd parlane
 pip install -e ".[dev]"
 

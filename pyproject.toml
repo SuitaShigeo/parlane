@@ -9,7 +9,7 @@ description = "Dead-simple parallel data processing for Python"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
-authors = [{ name = "owl-tech-sui" }]
+authors = [{ name = "SuitaShigeo" }]
 keywords = ["parallel", "concurrent", "multiprocessing", "threading", "gil-free"]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -44,9 +44,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/owl-tech-sui/parlane"
-Repository = "https://github.com/owl-tech-sui/parlane"
-Issues = "https://github.com/owl-tech-sui/parlane/issues"
+Homepage = "https://github.com/SuitaShigeo/parlane"
+Repository = "https://github.com/SuitaShigeo/parlane"
+Issues = "https://github.com/SuitaShigeo/parlane/issues"
 
 [tool.hatch.version]
 source = "vcs"

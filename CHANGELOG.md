@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.1] - 2026-09-19
+
+### Changed
+- Updated all GitHub references from `owl-tech-sui` to `SuitaShigeo` after the account rename — LICENSE, README badges and clone URL, and `pyproject.toml` authors and project URLs
+- PyPI project metadata (author, project URLs) now points at the current repository
+
+No functional changes.
+
 ## [0.3.0] - 2026-02-07
 
 ### Added
